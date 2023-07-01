@@ -1,0 +1,14 @@
+C:\Users\rj45l\source\repos\GalaxyProtector\GalaxyProtector\bin\Debug\GalaxyProtector.exe.config
+C:\Users\rj45l\source\repos\GalaxyProtector\GalaxyProtector\bin\Debug\GalaxyProtector.exe
+C:\Users\rj45l\source\repos\GalaxyProtector\GalaxyProtector\bin\Debug\GalaxyProtector.pdb
+C:\Users\rj45l\source\repos\GalaxyProtector\GalaxyProtector\obj\Debug\GalaxyProtector.csproj.AssemblyReference.cache
+C:\Users\rj45l\source\repos\GalaxyProtector\GalaxyProtector\obj\Debug\GalaxyProtector.Form1.resources
+C:\Users\rj45l\source\repos\GalaxyProtector\GalaxyProtector\obj\Debug\GalaxyProtector.Properties.Resources.resources
+C:\Users\rj45l\source\repos\GalaxyProtector\GalaxyProtector\obj\Debug\GalaxyProtector.csproj.GenerateResource.cache
+C:\Users\rj45l\source\repos\GalaxyProtector\GalaxyProtector\obj\Debug\GalaxyProtector.csproj.CoreCompileInputs.cache
+C:\Users\rj45l\source\repos\GalaxyProtector\GalaxyProtector\obj\Debug\GalaxyProtector.exe
+C:\Users\rj45l\source\repos\GalaxyProtector\GalaxyProtector\obj\Debug\GalaxyProtector.pdb
+C:\Users\rj45l\source\repos\GalaxyProtector\GalaxyProtector\bin\Debug\dnlib.dll
+C:\Users\rj45l\source\repos\GalaxyProtector\GalaxyProtector\bin\Debug\dnlib.xml
+C:\Users\rj45l\source\repos\GalaxyProtector\GalaxyProtector\obj\Debug\GalaxyProtector.csproj.CopyComplete
+C:\Users\rj45l\source\repos\GalaxyProtector\GalaxyProtector\bin\Debug\Guna.UI2.dll
